@@ -2,8 +2,5 @@ TESTANDO UM, DOIS, TRÊS !!!!
 A
 B
 C
-<<<<<<< HEAD
-
-=======
 D
->>>>>>> funcao_x
+

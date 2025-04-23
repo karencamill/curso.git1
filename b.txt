@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 olá
+=======
+olá
+Testando
+Uma
+Atualização
+de Arquivo
+aa
+>>>>>>> funcao_x

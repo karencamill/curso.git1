@@ -14,3 +14,7 @@ body {
   p {
     color:pink
   }
+
+  table {
+    background-color: yellow;
+  }
